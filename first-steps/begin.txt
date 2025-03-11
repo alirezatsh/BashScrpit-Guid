@@ -1,0 +1,8 @@
+1) create a file with .sh extention
+2) give it permission with this command ======>  sudo chmod +x filename.sh
+3) use nano or an editor to write your scripts
+4) put this in the first line of your script file ======> #!/bin/bash
+5) run the script with these commands ======> bash filename.sh or ./filename.sh
+6) you can also run your scrpt from anywhere with these steps
+    * mv filename.sh /usr/local/bin
+    * add your favorite alias name to the command and add it to .bashrc
